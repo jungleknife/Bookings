@@ -12345,11 +12345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tony\\source\\repos\\TableBooking\\TableBooking\\TableBooking.csproj",
+      "projectUniqueName": "C:\\Users\\Tony\\source\\repos\\Bookings\\TableBooking\\TableBooking.csproj",
       "projectName": "TableBooking",
-      "projectPath": "C:\\Users\\Tony\\source\\repos\\TableBooking\\TableBooking\\TableBooking.csproj",
+      "projectPath": "C:\\Users\\Tony\\source\\repos\\Bookings\\TableBooking\\TableBooking.csproj",
       "packagesPath": "C:\\Users\\Tony\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tony\\source\\repos\\TableBooking\\TableBooking\\obj\\",
+      "outputPath": "C:\\Users\\Tony\\source\\repos\\Bookings\\TableBooking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
